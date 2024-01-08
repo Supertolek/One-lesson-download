@@ -2,7 +2,7 @@
 
 ## Project :
 
-[https://github.com/Supertolek/One-lesson/edit/master/README.md](https://github.com/Supertolek/One-lesson/edit/master/README.md)
+[https://github.com/Supertolek/One-lesson/](https://github.com/Supertolek/One-lesson/)
 
 ## Files :
 
